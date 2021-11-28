@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>
+        Kashmir Snow Trip Check List
+    </title>
+</head>
+
+<body style="background-color:rgba(67, 156, 179, 0.719);">
+    <h1>Kashmir Trip</h1>
+
+    <nav class="navbar background">
+        <ul class="nav-list">
+            <div class="Kashmir Snow">
+                <img src="Kashmir.jpg">
+            </div>
+            <h2>Checklist for Kashmir Snow</h2>
+            <li><a href="https://www.decathlon.in/search?query=snow%20boots">Shoes</a></li>
+            <li><a href="https://www.tourmyindia.com/blog/snow-tourist-places-kashmir/">Travels</a></li>
+            <li><a href="https://himalayanhigh.in/himalayan-medical-kit-a-must-have">Medicines</a></li>
+        </ul>
+
+    </nav>
+
+    <section class="firstsection">
+        <div class="box-main">
+            <div class="firstHalf">
+                <h1 class="text-big" id="shoes">
+                    Snow Shoes
+                </h1>
+                
+                <p class="text-small">
+                    
+
+                    
+                    <ul>
+                        <li>Once you strap the snowshoes to your feet, you can walk in your natural stride. However, if you have a narrow gait, you may need to widen your stance slightly to avoid stepping on the shoe’s frame. No matter your gait, it’s essential to make sure you have the correct size and fit for snowshoes, just like regular shoes. Also, review the techniques that are helpful when navigating different terrain.
+                    </li><br>
+            
+                      </ul>
+                </p>
+
+
+            </div>
+        </div>
+    </section>
+
+    <section class="secondsection">
+        <div class="box-main">
+            <div class="secondHalf">
+                <h1 class="text-big" id="program">
+                    Travels
+                </h1>
+                <p class="text-small">
+                    With the first snowfall greeting the state of Jammu & Kashmir, the onset of an evidently chilly winter has begun. While it makes up for picturesque and scenic views, is it really a thing of beauty? 
+
+                    While the term 'global warming' literally indicates the globe warming up, early snowfall remains a strong indicator of it. As compared to the years 2019 and 2020, snowfall came in quite early in Kashmir this year, probably making way for a similar pattern in other hilly areas.
+                </p>
+
+
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="paras">
+            <h1 class="sectionTag text-big">Medicines</h1>
+
+            <p class="sectionSubTag text-small">
+                We must carry medicines and basic medical kit with creams , moisture 
+                antiseptic lotions, bandages etc.. 
+            </p>
+
+
+        </div>
+
+    <footer class="background">
+        <p class="text-footer">
+            HAVE A SAFE JOURNEY
+        </p>
+
+
+    </footer>
+</body>
+
+</html>
